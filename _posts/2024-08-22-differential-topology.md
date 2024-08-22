@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/whitney.jpg?raw=true"
+<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/whitney.jpg?raw=true">
 
 Hassler Whitney (1907 - 1989), matemático estadunidense. Conhecido por um dos teoremas mais importantes da Topologia Diferencial.
 
