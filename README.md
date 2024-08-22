@@ -15,7 +15,7 @@ Atualmente estou interessado em estudar Geometria e Topologia Diferencial. Neste
 ## Orientadores
 
 - Ezequiel Rodrigues Barbosa
-- {title: Rodney Josué Biezuner, url: "http://150.164.25.15/~rodney/"}
+- [Rodney Josué Biezuner](http://150.164.25.15/~rodney/)
 
 ![screenshot](https://github.com/SubGui/subgui.github.io/blob/master/Lugarino.png)
 
