@@ -9,14 +9,8 @@ categories: media
 
 ## Alguns teoremas interessantes
 
-[O Teorema de Gauss-Bonnet](https://en.wikipedia.org/wiki/Gauss-Bonnet_theorem) relaciona a curvatura de uma variedade a sua característica de Euler. Por exemplo, se $M$ é uma superfície compacta e orientável em $\mathbb{R}^3$ e $K$ é a curvatura Gaussiana de $M$, então
+[O Teorema de Gauss-Bonnet](https://en.wikipedia.org/wiki/Gauss-Bonnet_theorem) relaciona a curvatura de uma variedade a sua característica de Euler. Por exemplo, se $$M$$ é uma superfície compacta e orientável em $$\mathbb{R}^3$$ e $$K$$ é a curvatura Gaussiana de $$M$$, então
 
 $$ \int_M K \mathrm{d}A = 2\pi \chi(M) $$
 
-onde $\chi(M)$ é a **característica de Euler-Poincaré** de $M$, um importante invariante topológico estudado em Topologia Algébrica.
-
-## Embedded content
-
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+onde $$\chi(M)$$ é a **característica de Euler-Poincaré** de $$M$$, um importante invariante topológico estudado em Topologia Algébrica.
