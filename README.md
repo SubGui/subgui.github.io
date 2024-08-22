@@ -6,7 +6,9 @@ layout: page
 
 ## Informações Acadêmicas
 
-Bacharelando em Matemática - Universidade Federal de Minas Gerais (8/8)
+<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/me.png?raw=true" width="250" height="250">
+
+Bacharelando em Matemática pela Universidade Federal de Minas Gerais. Você pode encontrar o meu currículo Lattes [aqui](http://lattes.cnpq.br/0022025687650395).
 
 ## Interesses
 
