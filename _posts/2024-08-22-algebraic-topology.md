@@ -1,18 +1,16 @@
 ---
-title:  "Geometria Diferencial"
+title:  "Topologia Algébrica"
 mathjax: true
 layout: post
 categories: media
 ---
 
-<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/gaub.jpg?raw=true" width="250" height="250">
+<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/poincare.png?raw=true" width="250" height="250">
 
-Carl Friedrich Gauss (1777 - 1885), matemático alemão, um dos precursores da Geometria Diferencial de Superfícies.
+Henri Poincaré (1854-1912), matemático francês. Notavelmente um dos mais prolíficos matemáticos de todos os tempos, foi o inventor da Topologia Algébrica.
 
 ## Alguns teoremas interessantes
 
-[O Teorema de Gauss-Bonnet](https://en.wikipedia.org/wiki/Gauss-Bonnet_theorem) relaciona a curvatura de uma variedade a sua característica de Euler. Por exemplo, se $$M$$ é uma superfície compacta e orientável em $$\mathbb{R}^3$$ e $$K$$ é a curvatura Gaussiana de $$M$$, então
+[Sequência de Mayer-Vietoris](https://en.wikipedia.org/wiki/Mayer-Vietoris_sequence) Seja $$X$$ um espaço topológico e subconjuntos $$A,\,B\subset X$$ cujos interiores cobrem $$X$$. Em homologia simplicial, a **sequência de Mayer-Vietoris** para a tripla $$(X,\,A,\,B)$$ é a sequência longa exata relacionando os grupos de homologia singular (com coeficiente no grupo dos inteiros $$\mathbb{Z}$$ dos espaços $$X,\,A,\,B$$, e a interseção $$A\cap B$$. Ela afirma que a seguinte sequência longa é exata:
 
-$$ \int_M K \mathrm{d}A = 2\pi \chi(M) $$
-
-onde $$\chi(M)$$ é a **característica de Euler-Poincaré** de $$M$$, um importante invariante topológico estudado em Topologia Algébrica.
+$$ \cdots \to H_{n+1}(X)\,\xrightarrow {\partial _{*}} \,H_{n}(A\cap B)\,\xrightarrow {\left({\begin{smallmatrix}i_{*}\\j_{*}\end{smallmatrix}}\right)} \,H_{n}(A)\oplus H_{n}(B)\,\xrightarrow {k_{*}-l_{*}} \,H_{n}(X)\,\xrightarrow {\partial _{*}} \,H_{n-1}(A\cap B)\to \cdots$$
