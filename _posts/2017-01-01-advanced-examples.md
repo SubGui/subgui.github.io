@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Gauss](https://github.com/SubGui/subgui.github.io/blob/bee3a5ccac340584340d2ef9f81f60b4a3f81ad8/gaub.jpg)
+![Gauss](https://github.com/SubGui/subgui.github.io/blob/bee3a5ccac340584340d2ef9f81f60b4a3f81ad8/gaub.jpg = 120 x 90)
 
 ## Alguns teoremas interessantes
 
