@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/SubGui/subgui.github.io/blob/bee3a5ccac340584340d2ef9f81f60b4a3f81ad8/gaub.jpg" width="60" height="90">
+<img src="https://github.com/SubGui/subgui.github.io/blob/bee3a5ccac340584340d2ef9f81f60b4a3f81ad8/gaub.jpg" width="250" height="250">
 
 ## Alguns teoremas interessantes
 
