@@ -1,18 +1,14 @@
 ---
-title:  "Geometria Diferencial"
+title:  "Topologia Diferencial"
 mathjax: true
 layout: post
 categories: media
 ---
 
-<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/gaub.jpg?raw=true" width="250" height="250">
+<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/whitney.jpg?raw=true" width="250" height="250">
 
-Carl Friedrich Gauss (1777 - 1885), matemático alemão, um dos precursores da Geometria Diferencial de Superfícies.
+Hassler Whitney (1907 - 1989), matemático estadunidense. Conhecido por um dos teoremas mais importantes da Topologia Diferencial.
 
 ## Alguns teoremas interessantes
 
-[O Teorema de Gauss-Bonnet](https://en.wikipedia.org/wiki/Gauss-Bonnet_theorem) relaciona a curvatura de uma variedade a sua característica de Euler. Por exemplo, se $$M$$ é uma superfície compacta e orientável em $$\mathbb{R}^3$$ e $$K$$ é a curvatura Gaussiana de $$M$$, então
-
-$$ \int_M K \mathrm{d}A = 2\pi \chi(M) $$
-
-onde $$\chi(M)$$ é a **característica de Euler-Poincaré** de $$M$$, um importante invariante topológico estudado em Topologia Algébrica.
+[O Teorema do Mergulho de Whitney](https://en.wikipedia.org/wiki/Whitney_embedding_theorem) afirma que toda $$n$$-variedade diferenciável $M$ pode ser mergulhada em $$\mathbb{R}^{2n+1}$$. Usando este teorema, podemos facilmente provar que toda variedade admite uma **métrica Riemanniana**, apenas usando o pullback da métrica do espaço Euclideano.
