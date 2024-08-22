@@ -7,7 +7,7 @@ categories: media
 
 <img src="https://github.com/SubGui/subgui.github.io/blob/master/images/Bernhard-Riemann.jpg?raw=true" width="250" height="250">
 
-Bernhard Riemann (1826-1866), foi aluno do Gauss e fundou a base para o estudo da geometria em variedades diferenciáveis, introduzindo os conceitos em sua habilitação de 1854)
+Bernhard Riemann (1826-1866), foi aluno do Gauss e fundou a base para o estudo da geometria em variedades diferenciáveis, introduzindo os conceitos em sua habilitação de 1854.
 
 ## Alguns teoremas interessantes
 
