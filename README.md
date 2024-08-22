@@ -8,7 +8,7 @@ layout: page
 
 <img src="https://github.com/SubGui/subgui.github.io/blob/master/images/me.png?raw=true" width="250" height="250">
 
-Bacharelando em Matemática pela Universidade Federal de Minas Gerais. Você pode encontrar o meu currículo Lattes [aqui](http://lattes.cnpq.br/0022025687650395). Cursando o último período, pretende cursar o mestrado em Matemática na mesma universidade.
+Bacharelando em Matemática pela Universidade Federal de Minas Gerais. Você pode encontrar o meu currículo Lattes [aqui](http://lattes.cnpq.br/0022025687650395). Atualmente, estou cursando o último período da graduação e pretendo cursar o mestrado em Matemática na mesma universidade.
 
 ## Interesses
 
