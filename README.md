@@ -17,6 +17,6 @@ Atualmente estou interessado em estudar Geometria e Topologia Diferencial. Neste
 - Ezequiel Rodrigues Barbosa
 - [Rodney Josué Biezuner](http://150.164.25.15/~rodney/)
 
-![Logan](https://github.com/SubGui/subgui.github.io/blob/4b97916cdf3e337fc4c1a1b276064a9419a456d8/Lugarino.png)
+![Logan](https://github.com/SubGui/subgui.github.io/blob/master/images/Lugarino.png?raw=true)
 
 Este é o meu cachorro Logan. Ele é bem esperto e sabe mais matemática do que eu.
