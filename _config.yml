@@ -19,7 +19,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home}
   - {file: "index.md", title: Anotações, icon: pen-to-square}
   - {file: "README.md", title: Sobre mim, icon: address-card}
-  - {file: "links.md", title: Links, icon: link}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: E-mail, icon: envelope, url: "mailto:limint@ufmg.br"}
