@@ -5,10 +5,4 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/whitney.jpg?raw=true">
-
-Hassler Whitney (1907 - 1989), matemático estadunidense. Conhecido por um dos teoremas mais importantes da Topologia Diferencial.
-
-## Alguns teoremas interessantes
-
-[O Teorema do Mergulho de Whitney](https://en.wikipedia.org/wiki/Whitney_embedding_theorem) afirma que toda $$n$$-variedade diferenciável $M$ pode ser mergulhada em $$\mathbb{R}^{2n+1}$$. Usando este teorema, podemos provar que toda variedade admite uma **métrica Riemanniana**,  tomando o pullback do produto interno euclideano.
+Previsão para disponibilidade das notas: 2025/2, quando cursarei a disciplina, ou quando houver tempo para estudar. No momento, produzo algumas notas baseadas nos capítulos do livro "[Introduction to Smooth Manifolds](https://link.springer.com/book/10.1007/978-1-4419-9982-5)", do autor John M. Lee, o qual usei durante a Iniciação Científica para estudar Variedades Diferenciáveis, até o capítulo 6. Posteriormente, iniciei os estudos dos capítulos posteriores. 
