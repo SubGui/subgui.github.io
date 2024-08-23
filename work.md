@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Início
+title: Trabalhos
 ---
 
 Recentemente, apresentei sobre o seguinte trabalho na XXXIII Semana de Iniciação Científica da UFMG:
