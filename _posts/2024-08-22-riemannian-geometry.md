@@ -5,12 +5,10 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/Bernhard-Riemann.jpg?raw=true" width="250" height="250">
+Estou assistindo as aulas de Geometria Riemanniana do [Programa de Doutorado - Geometria Riemanniana](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR0ARuuTqJcGLFk1bKyHEY7) do Instituto de Matemática Pura e Aplicada, ministrada pelo professor Fernando Codá, em 2012. Até o momento ({% last_modified_at %}), tenho as seguintes notas, que necessitam de alterações:
 
-Bernhard Riemann (1826-1866), matemático alemão, foi aluno do Gauss e fundou a base para o estudo da geometria em variedades diferenciáveis, introduzindo os conceitos em sua habilitação de 1854.
+- <a href="https://drive.google.com/file/d/1nrriuPkYLeNUMTeqB9TqRCm01wFzIolh/view" target="_blank">Aula 01</a>
+- <a href="https://drive.google.com/file/d/1vmQlYEJDZ4uxWVHmkU3EBWLSuQeqkJaO/view" target="_blank">Aula 02</a>
+- <a href="https://drive.google.com/file/d/19SBe8ZBNzrm9flIvZFdcDD5Yp35JfIGK/view" target="_blank">Aula 03</a>
 
-## Alguns teoremas interessantes
 
-(O Lema de Simetria) Se $$f:\Omega\subset\mathbb{R}^2\rightarrow M$$ é uma função diferenciável em um domínio do plano, então
-
-$$\nabla_{\frac{\partial f}{\partial s}}\dfrac{\partial f}{\partial t}=\nabla_{\frac{\partial f}{\partial t}}\dfrac{\partial f}{\partial s}$$
