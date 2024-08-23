@@ -4,7 +4,7 @@ description: "Site para publicar trabalhos e artigos, além de outros resultados
 permalink: /:title/
 lang: "pt"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%d %B, %Y"
 
 # Layout
 
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", icon: home}
-  - {file: "index.html", title: Anotações, icon: pen-to-square}
+  - {file: "index.html", title: Anotações, icon: file-lines}
   - {file: "README.md", title: Sobre mim, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
