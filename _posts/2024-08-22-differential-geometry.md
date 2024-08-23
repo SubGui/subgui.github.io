@@ -5,14 +5,8 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/SubGui/subgui.github.io/blob/master/images/gaub.jpg?raw=true" width="250" height="250">
+Previsão para disponibilidade das notas: Quando houver tempo. Pretendo iniciar os estudos aprofundados de Geometria Diferencial utilizando os livros "[Differential Geometry: Connections, Curvature, and Characteristic Classes](https://link.springer.com/book/10.1007/978-3-319-55084-8)" por Loring W. Tu e os volumes de "A Comprehensive Introduction to Differential Geometry" por Michael Spivak.
 
-Carl Friedrich Gauss (1777 - 1885), matemático alemão, um dos precursores da Geometria Diferencial de Superfícies.
+Recomendo também as notas de aula do Professor Rodney Biezuner (UFMG):
+- - <a href="http://150.164.25.15/~rodney/notas_de_aula/geometria_diferencial.pdf" target="_blank">Notas de Aula de Geometria Diferencial</a>
 
-## Alguns teoremas interessantes
-
-[O Teorema de Gauss-Bonnet](https://en.wikipedia.org/wiki/Gauss-Bonnet_theorem) relaciona a curvatura de uma variedade a sua característica de Euler. Por exemplo, se $$M$$ é uma superfície compacta e orientável em $$\mathbb{R}^3$$ e $$K$$ é a curvatura Gaussiana de $$M$$, então
-
-$$ \int_M K \mathrm{d}A = 2\pi \chi(M) $$
-
-onde $$\chi(M)$$ é a **característica de Euler-Poincaré** de $$M$$, um importante invariante topológico estudado em Topologia Algébrica.
