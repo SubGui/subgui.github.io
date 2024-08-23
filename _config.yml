@@ -17,11 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", icon: home}
-  - {file: "index.html", title: Anotações, icon: book}
+  - {file: "index.html", title: Anotações, icon: pen}
+  - {file: "work.md", title: Trabalhos, icon: briefcase} 
   - {file: "README.md", title: Sobre mim, icon: address-card}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: E-mail, icon: envelope, url: "mailto:limint@ufmg.br"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
