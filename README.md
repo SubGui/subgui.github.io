@@ -21,4 +21,4 @@ Atualmente estou interessado em estudar Geometria e Topologia Diferencial. Neste
 
 ![Logan](https://github.com/SubGui/subgui.github.io/blob/master/images/Lugarino.png?raw=true)
 
-Este é o meu cachorro Logan. Ele é bem esperto e sabe mais matemática do que eu.
+Este é o meu cachorro Logan. Ele é bem esperto e possivelmente sabe mais matemática do que eu.
