@@ -8,15 +8,13 @@ layout: page
 
 <img src="https://github.com/SubGui/subgui.github.io/blob/master/images/me.png?raw=true" width="250" height="250">
 
-Bacharelando em Matemática pela Universidade Federal de Minas Gerais. Você pode encontrar o meu currículo Lattes [aqui](http://lattes.cnpq.br/0022025687650395). Atualmente, estou cursando o último período da graduação e pretendo cursar o mestrado em Matemática na mesma universidade.
+Bacharelando em Matemática pela Universidade Federal de Minas Gerais. Você pode encontrar o meu currículo Lattes [aqui](http://lattes.cnpq.br/0022025687650395). Atualmente, estou cursando o último período da graduação.
 
 ## Interesses
 
-Atualmente estou interessado em estudar Geometria e Topologia Diferencial. Neste semestre (2024/2), usarei algum tempo para estudar artigos recomendados pelo meus orientadores.
+Atualmente estou interessado em estudar Geometria e Topologia Diferencial, Geometria Riemanniana e gostaria de aprender sobre Geometria Complexa.
 
-## Orientadores
-
-- Ezequiel Rodrigues Barbosa
+## Orientadores (UFMG)
 - [Rodney Josué Biezuner](http://150.164.25.15/~rodney/)
 
 ## Links úteis
