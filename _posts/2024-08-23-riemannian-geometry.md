@@ -24,7 +24,7 @@ Estou assistindo as aulas de Geometria Riemanniana do [Programa de Doutorado - G
 - <a href="https://drive.google.com/file/d/1Ael_8dox5aoUu2hEzLOVTWqK1Uirh9Yf/view" target="_blank">Aula 15</a>
 - <a href="https://drive.google.com/file/d/1AXvINsbHcWYdu8vqvQAHMmGNaoLaIrtq/view" target="_blank">Aula 16</a>
 - <a href="https://drive.google.com/file/d/1B-K88lC9bdlEoecOvU0uArhDN2CR1Rwd/view" target="_blank">Aula 17</a>
-- Aula 18
+- <a href="https://drive.google.com/file/d/1Bvs6lQ-Hek3IsUUwkcOMBYnCfBVQuI4M/view" target="_blank">Aula 18</a>
 - Aula 19
 - Aula 20
 - Aula 21
