@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-Estou assistindo as aulas de Geometria Riemanniana do [Programa de Doutorado - Geometria Riemanniana](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR0ARuuTqJcGLFk1bKyHEY7) do Instituto de Matemática Pura e Aplicada, ministrada pelo professor Fernando Codá em 2012. Até o momento, tenho as seguintes notas, que necessitam de alterações:
+Estou assistindo as aulas de Geometria Riemanniana do [Programa de Doutorado - Geometria Riemanniana](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR0ARuuTqJcGLFk1bKyHEY7) do Instituto de Matemática Pura e Aplicada, ministrada pelo professor Fernando Codá Marques em 2012. Até o momento, tenho as seguintes notas, que necessitam de alterações:
 
 - <a href="https://drive.google.com/file/d/1nrriuPkYLeNUMTeqB9TqRCm01wFzIolh/view" target="_blank">Aula 01</a>
 - <a href="https://drive.google.com/file/d/1vmQlYEJDZ4uxWVHmkU3EBWLSuQeqkJaO/view" target="_blank">Aula 02</a>
@@ -25,8 +25,8 @@ Estou assistindo as aulas de Geometria Riemanniana do [Programa de Doutorado - G
 - <a href="https://drive.google.com/file/d/1AXvINsbHcWYdu8vqvQAHMmGNaoLaIrtq/view" target="_blank">Aula 16</a>
 - <a href="https://drive.google.com/file/d/1B-K88lC9bdlEoecOvU0uArhDN2CR1Rwd/view" target="_blank">Aula 17</a>
 - <a href="https://drive.google.com/file/d/1EOLjoOcmd75cNpFqkXF8nFJ6RSeKFg6v/view" target="_blank">Aula 18</a>
-- Aula 19
-- Aula 20
+- <a href="https://drive.google.com/file/d/1EkwXK_rIcVjDq4jC5UnDR6ld4eZH8pgx/view" target="_blank">Aula 19</a>
+- <a href="https://drive.google.com/file/d/1EmS4ojNMKKe4iLwhZ0PfhID3CgNajweo/view" target="_blank">Aula 20</a>
 - Aula 21
 - Aula 22
 
