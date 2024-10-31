@@ -27,7 +27,7 @@ Estou assistindo as aulas de Geometria Riemanniana do [Programa de Doutorado - G
 - <a href="https://drive.google.com/file/d/1EOLjoOcmd75cNpFqkXF8nFJ6RSeKFg6v/view" target="_blank">Aula 18</a>
 - <a href="https://drive.google.com/file/d/1EkwXK_rIcVjDq4jC5UnDR6ld4eZH8pgx/view" target="_blank">Aula 19</a>
 - <a href="https://drive.google.com/file/d/1EmS4ojNMKKe4iLwhZ0PfhID3CgNajweo/view" target="_blank">Aula 20</a>
-- Aula 21
+- <a href="https://drive.google.com/file/d/1GDY5UgYlUHgKotGLntZSk6B_cdpSZOGv/view" target="_blank">Aula 21</a>
 - Aula 22
 
 Recomendo também as notas de aula do Professor Rodney Biezuner (UFMG):
