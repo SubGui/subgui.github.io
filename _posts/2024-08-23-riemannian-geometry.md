@@ -30,7 +30,7 @@ Estou assistindo as aulas de Geometria Riemanniana do [Programa de Doutorado - G
 - <a href="https://drive.google.com/file/d/1GDY5UgYlUHgKotGLntZSk6B_cdpSZOGv/view" target="_blank">Aula 21</a>
 - <a href="https://drive.google.com/file/d/1Gq23TasWZXLHZnxXViJcvT-gdJRbOT1o/view" target="_blank">Aula 22</a>
 
-Evidentemente, este é apenas um primeiro curso de Geometria Riemanniana, então algumas coisas ficaram de fora. Planejo assistir em algum momento as [aulas do professor Luis Florit](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSqe2QpiYKs4VMcIYvZiiLe), para incluir alguns tópicos. Farei o curso devidamente matriculado como aluno em algum momento do próximo ano.
+Evidentemente, este é apenas um primeiro curso de Geometria Riemanniana, então alguns temas ficaram de fora. Planejo assistir em algum momento as [aulas do professor Luis Florit](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSqe2QpiYKs4VMcIYvZiiLe), para incluir alguns tópicos. Farei o curso devidamente matriculado como aluno em algum momento do próximo ano.
 
 Recomendo também as notas de aula do Professor Rodney Biezuner (UFMG):
 - <a href="http://150.164.25.15/~rodney/notas_de_aula/geometria_riemanniana.pdf" target="_blank">Notas de Aula de Geometria Riemanniana</a>
